@@ -2,11 +2,11 @@
 Example of greedy algorithm
 //writing code using c programming language
 #include<stdio.h>
-int n;
+
 int main(){
 
      int i,j,temp, k=0;
-     
+     int n;
      int jb[20];
      int A[]={0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};
      int s[20],f[20];
